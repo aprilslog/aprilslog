@@ -5,7 +5,6 @@
 
 ### :pencil2: Studying </div>
 
-<img src="https://ghchart.rshah.org/4942E4/aprilslog"/>
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
